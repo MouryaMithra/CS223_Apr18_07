@@ -1,0 +1,1 @@
+There is no configuration needed to run the software.

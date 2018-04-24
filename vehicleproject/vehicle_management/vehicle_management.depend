@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1524570394 source:c:\users\raja\desktop\bus.cpp
+	<bits/stdc++.h>
+	"bus.h"
+
+1524331432 c:\users\raja\desktop\bus.h
+	<bits/stdc++.h>
+	<bits/stdc++.h>
+
+1524569964 source:c:\users\raja\desktop\car.cpp
+	<bits/stdc++.h>
+	"car.h"
+	"expense.h"
+
+1524335979 c:\users\raja\desktop\car.h
+	<bits/stdc++.h>
+
+1524563870 source:c:\users\raja\desktop\heavy.cpp
+	<bits/stdc++.h>
+	"heavy.h"
+	"bus.h"
+	"van.h"
+	"JCB.h"
+
+1524335976 c:\users\raja\desktop\heavy.h
+	<bits/stdc++.h>
+	"jcb.h"
+	"bus.h"
+	"van.h"
+
+1524577153 c:\users\raja\desktop\jcb.h
+	<bits/stdc++.h>
+
+1523387415 c:\users\raja\desktop\van.h
+	<bits/stdc++.h>
+
+1524569552 source:c:\users\raja\desktop\jcb.cpp
+	<bits/stdc++.h>
+	"jcb.h"
+
+1524336904 source:c:\users\raja\desktop\main.cpp
+	<bits/stdc++.h>
+	"car.h"
+	"heavy.h"
+	"expense.h"
+
+1524570705 c:\users\raja\desktop\expense.h
+	<bits/stdc++.h>
+	"car.h"
+	"heavy.h"
+
+1524569512 source:c:\users\raja\desktop\van.cpp
+	<bits/stdc++.h>
+	"van.h"
+
+1514140574 source:c:\users\raja\desktop\vehicleproject\vehicle_management\main.cpp
+	<iostream>
+
+1524577091 source:c:\users\raja\desktop\expense.cpp
+	<bits/stdc++.h>
+	"expense.h"
+
+1523387347 c:\users\raja\desktop\bus..h
+	<bits/stdc++.h>
+
